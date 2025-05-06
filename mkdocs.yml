@@ -38,6 +38,8 @@ nav:
   - Modulo 2:
       - Interfaces: avancado/interfaces.md
       - Abstração: modulo2/abstracao.md
+      - Exercícios: modulo2/exercicios_abstracao.md
+
 
 plugins:
   - search
