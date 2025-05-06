@@ -9,6 +9,15 @@ theme:
     - scheme: default
       primary: blue
       accent: light blue
+      toggle:
+        icon: material/weather-night
+        name: Modo escuro
+    - scheme: slate
+      primary: blue
+      accent: light blue
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
   features:
     - navigation.instant  # Deixa a navegação mais rápida
     - navigation.top      # Adiciona botão "voltar ao topo"
@@ -26,9 +35,9 @@ nav:
       - Encapsulamento: pilares-poo/encapsulamento.md
       - Herança: pilares-poo/heranca.md
       - Polimorfismo: pilares-poo/polimorfismo.md
-  - Avançado:
+  - Modulo 2:
       - Interfaces: avancado/interfaces.md
-      - Classes Abstratas: avancado/classes-abstratas.md
+      - Abstração: modulo2/abstracao.md
 
 plugins:
   - search
