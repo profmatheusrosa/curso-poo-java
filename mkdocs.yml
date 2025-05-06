@@ -24,6 +24,13 @@ theme:
     - search.highlight    # Destaca os termos buscados
     - search.suggest      # Sugere palavras enquanto digita
     - content.action.edit # Botão para sugerir edições no GitHub
+    - content.code.copy   # Copia o código para a área de transferência
+    - navigation.tabs     # Permite abrir várias páginas ao mesmo tempo
+    - navigation.expand   # Expande o menu lateral 
+    - navigation.tracking # Rastreia o progresso de leitura
+    - navigation.sections # Adiciona seção ao menu lateral
+    - navigation.search   # Adiciona barra de pesquisa no menu lateral
+
 
 nav:
   - Início: index.md
