@@ -1,0 +1,17 @@
+site_name: Curso POO com Java
+theme:
+  name: material
+
+nav:
+  - Início: index.md
+  - Introdução: introducao.md
+  - Conceitos Básicos:
+      - Classes e Objetos: conceitos-basicos/classes-objetos.md
+      - Atributos e Métodos: conceitos-basicos/atributos-metodos.md
+  - Pilares da POO:
+      - Encapsulamento: pilares-poo/encapsulamento.md
+      - Herança: pilares-poo/heranca.md
+      - Polimorfismo: pilares-poo/polimorfismo.md
+  - Avançado:
+      - Interfaces: avancado/interfaces.md
+      - Classes Abstratas: avancado/classes-abstratas.md
